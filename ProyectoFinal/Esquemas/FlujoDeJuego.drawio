@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+  <diagram name="Página-1" id="Vt61W2OVzvniFcDWcQAf">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DL93EleZUXH6PBLtFmAL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LLVtuz0H-B7-x-IJ0uXK-1" target="DL93EleZUXH6PBLtFmAL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LLVtuz0H-B7-x-IJ0uXK-1" value="&lt;div&gt;Inicio de partida&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DL93EleZUXH6PBLtFmAL-1" target="DL93EleZUXH6PBLtFmAL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-1" value="Se decide que jugador empieza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL93EleZUXH6PBLtFmAL-3" target="DL93EleZUXH6PBLtFmAL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-3" value="Inicio jugador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07dUmBp1STZUJFQiZ8wK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL93EleZUXH6PBLtFmAL-7" target="07dUmBp1STZUJFQiZ8wK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-7" value="Se roba una carta" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DL93EleZUXH6PBLtFmAL-9" target="DL93EleZUXH6PBLtFmAL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DL93EleZUXH6PBLtFmAL-9" value="Cada jugador roba 5 cartas" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07dUmBp1STZUJFQiZ8wK-1" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
