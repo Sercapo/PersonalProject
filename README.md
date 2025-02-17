@@ -1,5 +1,5 @@
 # PersonalProject
 
 
-This is my project for my master in game desing and programming in Unreal Engine
+This is my project for the master in game desing and programming in Unreal Engine
 
